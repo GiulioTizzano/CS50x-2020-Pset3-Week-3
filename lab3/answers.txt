@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: The algorithm can execute the search almost as fast as the Merge sort, however, for larger files it does require more time.
+
+sort2 uses: Merge sort
+
+How do you know?: This is made evident from the fact that it is the most efficient algorithm, it requires less time for execution.
+
+sort3 uses: Selection sort
+
+How do you know?: This algorithm has fairly similar execution timings irrespective of the sorted file, it must therefore be taking the same number of steps.
+The execution time on this algorithm is identical no matter the file to be sorted what indicates that the algorithm takes the same number of steps.
